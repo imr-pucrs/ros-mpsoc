@@ -1,0 +1,6 @@
+[submodule "ursa"]
+	path = ursa
+	url = https://github.com/andersondomingues/ursa.git
+[submodule "hellfireos"]
+	path = hellfireos
+	url = https://github.com/andersondomingues/hellfireos.git
